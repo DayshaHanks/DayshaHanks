@@ -9,11 +9,7 @@ An analytical technical writer and AI evaluation specialist expanding my toolkit
 ```json
 {
   "current_focus": "Data-Driven AI Evaluation & Benchmarking",
-  "methodologies": [
-    "Adversarial Logic Testing",
-    "Structural Schema Verification",
-    "Technical Documentation Architecture"
-  ],
+  "methodologies": ["Adversarial Logic Testing", "Structural Schema Verification", "Technical Documentation Architecture"],
   "technical_track": {
     "program": "IBM Data Science Professional Certificate",
     "core_milestones": ["Python Syntax", "SQL Pipelines", "Exploratory Data Analysis", "Predictive Modeling"]
