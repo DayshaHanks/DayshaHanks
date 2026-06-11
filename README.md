@@ -1,12 +1,21 @@
 # Hi, I'm Daysha 👋
 
-### 📊 About Me
-I am an AI Evaluation & Alignment Specialist transitioning into advanced Data Science and Machine Learning engineering. Currently mastering Python, SQL, and predictive workflows via the **IBM Data Science Professional Certificate**. 
+An analytical technical writer and AI evaluation specialist expanding my toolkit into advanced data science and machine learning pipelines. Currently building a programmatic foundation through the **IBM Data Science Professional Certificate** to bridge the gap between human alignment logic and scalable data architectures.
 
-* **Core Focus:** Structural Logic Testing, Technical Communication, and Data-Driven AI Benchmarking.
-* **Current Goal:** Building programmatic pipelines to stress-test and optimize frontier AI model reasoning.
+---
 
-### 🛠️ Technical Toolbox (In Progress)
-* **Languages:** Python, SQL, JavaScript
-* **Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn
-* **Environments:** Jupyter Notebooks, Git/GitHub
+## 🚀 Professional Profile & Objectives
+
+```json
+{
+  "current_focus": "Data-Driven AI Evaluation & Benchmarking",
+  "methodologies": [
+    "Adversarial Logic Testing",
+    "Structural Schema Verification",
+    "Technical Documentation Architecture"
+  ],
+  "technical_track": {
+    "program": "IBM Data Science Professional Certificate",
+    "core_milestones": ["Python Syntax", "SQL Pipelines", "Exploratory Data Analysis", "Predictive Modeling"]
+  }
+}
