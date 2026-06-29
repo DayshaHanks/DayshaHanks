@@ -1,17 +1,13 @@
-# Hi, I'm Daysha 👋
+# Hi, I'm Daysha Hanks 👋
+### Technical Operations Specialist | Document & Quality Architect
 
-An analytical technical writer and AI evaluation specialist expanding my toolkit into advanced data science and machine learning pipelines. Currently building a programmatic foundation through the **IBM Data Science Professional Certificate** to bridge the gap between human alignment logic and scalable data architectures.
+I thrive in spaces where technical workflows get messy or unorganized, taking chaotic systems and building the exact structured frameworks, documentation, and logic sets teams need to execute flawlessly. 
 
----
+- 🛠️ **Current Focus:** Managing high-value enterprise document migrations and quality auditing as a Project Reviewer at Mercor Intelligence.
+- 🧠 **AI & Automation:** Developing high-constraint adversarial prompt sets, SFT dataset dialogue pairs, and structural data mappings.
+- 💻 **Technical Toolkit:** Python, JavaScript, JSON, Regex, and Markdown Optimization.
 
-## 🚀 Professional Profile & Objectives
-
-```json
-{
-  "current_focus": "Data-Driven AI Evaluation & Benchmarking",
-  "methodologies": ["Adversarial Logic Testing", "Structural Schema Verification", "Technical Documentation Architecture"],
-  "technical_track": {
-    "program": "IBM Data Science Professional Certificate",
-    "core_milestones": ["Python Syntax", "SQL Pipelines", "Exploratory Data Analysis", "Predictive Modeling"]
-  }
-}
+### 📂 Technical Specializations
+* **Data & Layout Architecture:** Structural document migration, formatting layout audits, and knowledge base configuration.
+* **System Testing & Alignment:** Adversarial red teaming, evaluation rubric execution (50+ items), and model alignment validation.
+* **Workflow Optimization:** Documenting complex call routing logic, building internal FAQs, and translating multi-state regulatory compliance data into clear technical manuals.
